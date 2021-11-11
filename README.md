@@ -1,5 +1,5 @@
 # StarWars
-Realizei dos as comando para a criação do banco da SQL Server.
+comandos para a criação do banco no SQL Server.
 
 
 CREATE TABLE Planetas (
